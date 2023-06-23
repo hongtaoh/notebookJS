@@ -216,7 +216,7 @@ Note that in [Example 5 Webpack](https://github.com/hongtaoh/notebookJS/tree/mai
 Error: error:0308010C:digital envelope routines::unsupported
 ```
 
-This error occurs because of the version conflicts of Node.js. Please see solutions [here]() on Stackoverflow. 
+This error occurs because of the version conflicts of Node.js. Please see solutions [here](https://stackoverflow.com/a/69699772) on Stackoverflow. 
 
 ## Reference
 
